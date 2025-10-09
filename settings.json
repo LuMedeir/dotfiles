@@ -84,4 +84,6 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "workbench.statusBar.visible": false,
+    "files.autoSave": "afterDelay",
 }
